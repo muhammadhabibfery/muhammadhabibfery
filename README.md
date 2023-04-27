@@ -4,16 +4,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-@feryleonardo_12-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/feryleonardo_12/)](https://instagram.com/feryleonardo_12)
 [![Gmail Badge](https://img.shields.io/badge/-muhammadhabibfery-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:muhammadhabibfery@gmail.com)](mailto:muhammadhabibfery@gmail.com)
 
-Welcome to my profile! I'm a student and part-time coder (web/backend development). Thanks for visiting.
+Welcome to my profile! I'm a student and part-time coder (web/backend developer). Thanks for visiting.
 
 
 This is the place where I opensource stuff and break things :joy:
 
-- 🔭 &nbsp;I’m currently working on something cool :eyes:
-- 🌱 &nbsp;I’m currently using Php, Javascript. And also learning some backend stuff like Go and its ecosystem
+- 🌱 &nbsp;I’m currently using Php, Javascript.
 - 💬 &nbsp;Ask me about anything related to Php/Javascript
 - 👨‍💻 &nbsp;Read more about my open source projects at [my github repo](https://github.com/muhammadhabibfery?tab=repositories)
-- ⚡ &nbsp;Fun fact: I :heart: sports especially football :soccer: , and some challenging sports like mountain climbing :mount_fuji:
 <br>
 
 <details>
