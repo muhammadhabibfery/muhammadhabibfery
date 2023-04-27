@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@feryleonardo_12-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/feryleonardo_12/)](https://instagram.com/feryleonardo_12)
 [![Gmail Badge](https://img.shields.io/badge/-muhammadhabibfery-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:muhammadhabibfery@gmail.com)](mailto:muhammadhabibfery@gmail.com)
 
-Welcome to my profile! I'm a student and part-time coder (web/backend developer). Thanks for visiting.
+Welcome to my profile
 
 
 This is the place where I opensource stuff and break things :joy:
