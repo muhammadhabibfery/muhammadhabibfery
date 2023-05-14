@@ -1,5 +1,6 @@
 # Hi I'm Fery <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
+[![Linkedin Badge](https://img.shields.io/badge/-muhammadhabibfery-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadhabibfery)](https://www.linkedin.com/in/muhammadhabibfery/)
 [![Twitter Badge](https://img.shields.io/badge/-@FeryLeonardo12-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FeryLeonardo12)](https://twitter.com/FeryLeonardo12)
 [![Instagram Badge](https://img.shields.io/badge/-@feryleonardo_12-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/feryleonardo_12/)](https://instagram.com/feryleonardo_12)
 [![Gmail Badge](https://img.shields.io/badge/-muhammadhabibfery-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:muhammadhabibfery@gmail.com)](mailto:muhammadhabibfery@gmail.com)
@@ -29,6 +30,9 @@ This is the place where I opensource stuff and break things :joy:
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        </a>
+        <a href="https://react.dev/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react.js" width="40" height="40"/>
         </a>
         <a href="https://alpinejs.dev/" target="_blank">
             <img src="https://alpinejs.dev/alpine_long.svg" alt="alpine.js" width="45" height="45"/>
