@@ -16,7 +16,7 @@ This is the place where I opensource stuff and break things :joy:
 <br>
 
 <details>
-    <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+    <summary><b>🛠️&nbsp;&nbsp;Skillset&nbsp;and&nbsp;Tools</b></summary>
     <br/>
     <p align="left">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
